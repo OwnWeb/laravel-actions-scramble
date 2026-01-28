@@ -8,6 +8,13 @@
             "Tommica\\LaravelActionsScramble\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tommica\\LaravelActionsScramble\\LaravelActionsScrambleServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "Tommi Carleman",
